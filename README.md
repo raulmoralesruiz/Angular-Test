@@ -25,3 +25,8 @@ La aplicación es una simulación de una tienda de productos.
 - Solicitar aviso de producto
 
     `En la lista de productos, podemos pulsar el botón Notify Me para solicitar notificación cuando el producto salga a la venta`
+
+- Revisar carro de la compra
+
+    `Podemos pulsar el botón Checkout para ver los productos que hemos añadido.`
+    `Desde este punto también podemos ver los gastos de envío generales.`
